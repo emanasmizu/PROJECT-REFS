@@ -6,7 +6,8 @@ h1{
     font-family: 'Lugrasimo', cursive;
     font-family: 'VT323', monospace;
     text-align: center;
-    color: rgb(71, 53, 230);
+    color: rgb(255, 255, 255);
+  
 
 }
 h2{
@@ -27,7 +28,7 @@ h2{
 hr{
     border-style: dotted none none;
     border-width: 10px;
-    border-color: rgb(255, 1, 191);
+    border-color: rgb(76, 63, 216);
 }
 table{
     align-content: center;
